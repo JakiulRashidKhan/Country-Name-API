@@ -1,0 +1,15 @@
+#box {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 20px;
+}
+.text {
+  background-color: #34c54a;
+  list-style-type: none;
+  border-radius: 20px;
+  padding: 20px;
+}
+.text img {
+  width: 250px;
+  height: 18 0px;
+}
